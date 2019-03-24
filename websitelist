@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://journals.aps.org/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://journals-aps-org.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://link.springer.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://link-springer-com.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://ieeexplore.ieee.org/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://pubs.acs.org/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://pubs-acs-org.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://onlinelibrary.wiley.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://onlinelibrary-wiley-com.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://aip.scitation.org/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://aip-scitation-org.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
+    }
+  ]
+}
