@@ -94,11 +94,13 @@
     {
       "description": "libproxy in NUS",
       "origin": "https://www.sciencedirect.com/",
-      "exclude": "",
-      "methods": [],
-      "types": [],
       "target": "https://www-sciencedirect-com.libproxy1.nus.edu.sg/",
-      "example": "",
+      "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://iopscience.iop.org/",
+      "target": "https://iopscience-iop-org.libproxy1.nus.edu.sg/",
       "enable": true
     }
   ]
