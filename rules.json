@@ -102,6 +102,12 @@
       "origin": "https://iopscience.iop.org/",
       "target": "https://iopscience-iop-org.libproxy1.nus.edu.sg/",
       "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://pubs.rsc.org/",
+      "target": "https://pubs-rsc-org.libproxy1.nus.edu.sg/",
+      "enable": true
     }
   ]
 }
