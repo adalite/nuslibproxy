@@ -70,6 +70,16 @@
       "target": "https://www-nature-com.libproxy1.nus.edu.sg/",
       "example": "",
       "enable": true
+    },
+    {
+      "description": "libproxy in NUS",
+      "origin": "https://science.sciencemag.org/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://science-sciencemag-org.libproxy1.nus.edu.sg/",
+      "example": "",
+      "enable": true
     }
   ]
 }
